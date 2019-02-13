@@ -15,6 +15,7 @@ body {
 }
 
 .siliconValley {
+    margin-top: 20px;
     width: 50%;
     height:50%;
 }
@@ -54,4 +55,12 @@ button {
 body{
 
     margin-left:20px;
+}
+.img{
+    display:flex;
+    justify-content:center;
+}
+#img{
+    width:600px;
+    height:600px;
 }
